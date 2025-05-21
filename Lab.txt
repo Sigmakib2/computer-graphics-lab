@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head><title>Home Page</title></head>
+<body>
+<h2>Welcome!</h2>
+<a href="table.html">
+  <img src="https://via.placeholder.com/150" alt="Go to Table Page">
+</a>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head><title>Table Page</title></head>
+<body>
+<h2>2x3 Table</h2>
+<table border="1">
+  <tr><td>1</td><td>2</td><td>3</td></tr>
+  <tr><td>4</td><td>5</td><td>6</td></tr>
+</table>
+<br>
+<a href="index.html">Back to Home</a>
+</body>
+</html>
